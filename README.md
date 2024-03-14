@@ -1,5 +1,4 @@
-# kaggle-llm-prompt-recovery
-Kaggle LLM Prompt Recovery Competition Solution
+# Kaggle LLM Prompt Recovery Competition Solution
 
 This repository contains the code for participating in the Kaggle competition titled "LLM Prompt Recovery." The competition's objective is to recover the prompt used by a Language Model (LLM) to transform a given text. Our solution utilizes the Gemma model for causal language modeling to infer the specific prompts or instructions likely given to the LLM.
 
